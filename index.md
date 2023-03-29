@@ -1,8 +1,8 @@
-## Portfolio
+## Gallery of my work 
 
 ---
 
-### Category Name 1 
+### Machine Learning/ Deep Learning 
 
 [Music Recommendation System](https://github.com/brp221/Music-Reccomendation-System)
 <img src="images/rec_sys_img.jpeg?raw=true"/>
@@ -16,6 +16,10 @@
 <img src="images/book_review_img.jpeg?raw=true"/>
 
 ---
+### Dashboards
+
+[Tableau Dashboard of Churn Data](https://public.tableau.com/app/profile/bratislav2462/viz/Churn_Workbook/DraftDashboard?publish=yes)
+<img src="images/dashboard_img.jpeg?raw=true"/>
 
 
 
