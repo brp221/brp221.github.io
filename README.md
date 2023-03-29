@@ -1,3 +1,3 @@
-## Welcome to my portfolio. I hope you enjoy this compilation of my favorite data science work I have done so far
+## Welcome to my portfolio. I hope you enjoy this compilation of data science projects I have workde on so far
 
 
