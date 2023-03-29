@@ -5,16 +5,19 @@
 
 [Music Recommendation System](https://github.com/brp221/Music-Reccomendation-System)
 <img src="images/rec_sys_img.jpeg?raw=true"/>
+<img src="images/spotify.png?raw=true"/>
+<img src="images/model.png?raw=true"/>
 
 ---
-[Cancer Detection using Computer Vision](/pdf/sample_presentation.pdf)
+[Cancer Detection using CNN](/pdf/sample_presentation.pdf)
+<img src="images/CNN_arch_2.jpeg?raw=true"/>
 <img src="images/cancer_detection_img.png?raw=true"/>
 
 ---
 [Sentiment Analysis of Book Reviews](https://github.com/brp221/Sentiment-Analysis-of-Book-Reviews)
 <img src="images/word_cloud.png?raw=true"/>
 <img src="images/ModelFitness_.png?raw=true"/>
-<img src="images/NeuralNetworkArchitecture.jpeg?raw=true"/>
+<img src="images/NeuralNetworkArchitecture.png?raw=true"/>
 
 ---
 <h4>Reporting and Dashboards</h4>
