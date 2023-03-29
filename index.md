@@ -1,4 +1,4 @@
-## Portfolio
+<h3>PORTFOLIO</h3>
 
 ---
 
@@ -9,6 +9,7 @@
 
 ---
 [Cancer Detection using Computer Vision](/pdf/sample_presentation.pdf)
+
 <img src="images/cancer_detection_img.png?raw=true"/>
 
 ---
