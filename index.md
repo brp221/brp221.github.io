@@ -12,7 +12,9 @@
 
 ---
 [Sentiment Analysis of Book Reviews](https://github.com/brp221/Sentiment-Analysis-of-Book-Reviews)
-<img src="images/book_review_img_2.jpeg?raw=true"/>
+<img src="images/word_cloud.png?raw=true"/>
+<img src="images/ModelFitness_.png?raw=true"/>
+<img src="images/NeuralNetworkArchitecture.jpeg?raw=true"/>
 
 ---
 <h4>Reporting and Dashboards</h4>
