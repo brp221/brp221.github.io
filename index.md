@@ -46,7 +46,7 @@ cosine similarity. The semantic similarity is used as a proxy to assess how risk
 [Tableau Dashboard of Churn Data](https://public.tableau.com/app/profile/bratislav2462/viz/Churn_Workbook/DraftDashboard?publish=yes)
 <img src="images/tableau_dash.png?raw=true"/>
 <h5> A Tableau dashboard is built and published to display churn statistics of a telecommunications company. The dashboard exhibits 
-mulitple interactive widgets and aggreggates data to provide regional, product and client views <h/5> 
+mulitple interactive widgets and aggreggates data to provide regional, product and client views </h5> 
 
 
 ---
