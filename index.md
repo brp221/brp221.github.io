@@ -24,13 +24,23 @@ is compared to the state of the art ResNet CNN architecture which reaches 85% F1
 ---
 
 [Sentiment Analysis of Book Reviews](https://github.com/brp221/Sentiment-Analysis-of-Book-Reviews)
-<!-- <img src="images/word_cloud.png?raw=true"/> -->
+
 <img src="images/sentiment_.png?raw=true"/>
 <!-- <img src="images/ModelFitness_.png?raw=true"/> -->
 <!-- <img src="images/NeuralNetworkArchitecture_.png?raw=true"/> -->
 <h5> To classify textual data in the form of book reviews as having positive or negative sentiment, a RNN and CNN 
 architectures are combined to achieve a validation accuracy of 91%. The data was collected from Amazon. </h5> 
 ---
+
+[Industries Semantic Similarities (NLP)](https://medium.com/@p99bratislav/sic-industry-similarities-via-nlp-in-python-75131ebddb8)
+
+<img src="images/sic_classif_img.png?raw=true"/>
+<!-- <img src="images/ModelFitness_.png?raw=true"/> -->
+<!-- <img src="images/NeuralNetworkArchitecture_.png?raw=true"/> -->
+<h5> To quantify how similar two SIC industries are I D=designed an ensemble NLP algorithm to perform 
+cosine similarity. The semantic similarity is used as a proxy to assess how risky a potential client is. </h5> 
+---
+
 <h4>Reporting and Dashboards</h4>
 
 [Tableau Dashboard of Churn Data](https://public.tableau.com/app/profile/bratislav2462/viz/Churn_Workbook/DraftDashboard?publish=yes)
